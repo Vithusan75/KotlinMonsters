@@ -2,7 +2,6 @@ import dresseur.Entraineur
 import monde.Zone
 import monstre.EspeceMonstre
 import monstre.IndividuMonstre
-
 /**
  * Change la couleur du message donné selon le nom de la couleur spécifié.
  * Cette fonction utilise les codes d'échappement ANSI pour appliquer une couleur à la sortie console. Si un nom de couleur

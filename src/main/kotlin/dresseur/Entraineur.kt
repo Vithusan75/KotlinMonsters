@@ -37,3 +37,4 @@ class Entraineur(
         println("Argents: ${this.argents} ")
     }
 }
+
